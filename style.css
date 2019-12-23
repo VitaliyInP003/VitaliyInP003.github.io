@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+	width:85%;
+	margin-left: 6%;
+	background-color:#FAF2B3;
+
+}
+#maintop{
+	background-color: #FFDD73;
+	height: 35px;
+	border-bottom-left-radius:10px;
+	border-bottom-right-radius:10px;
+	padding-left:21%; 
+	padding-top:10px; 
+	border-bottom: 4px brown solid;
+}
+.idsearch{
+	margin-left:40px; 
+	text-decoration: none;
+	display: inline-block;
+	font-family: fantasy;
+	color:#A66E00;
+	font-weight: 10px;
+
+}
+.idsearch:hover{
+	transition-duration: .3s;
+	border-bottom:3px red solid;
+}
+#maincar{
+	opacity: 0.5;
+	width:100%;
+	align-items: center;
+
+}
+.dupa{
+	background-color: white;
+	border-radius: 10px;
+	padding: 30px 20px 20px 20px;
+	
+}
